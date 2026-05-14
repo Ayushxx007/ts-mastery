@@ -1,6 +1,6 @@
 function greet(target: any) {
 
-    console.log("Hello, " + target); //ts
+    console.log("Hello, " + target); //ts mastery
   
     }
 
